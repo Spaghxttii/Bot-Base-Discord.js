@@ -1,17 +1,10 @@
 /** 
- * discord.js Bot Command & Event Handler
- * ------------------------------------------
- * Developed by: Spaghxttii (2025)
- * GitHub: [https://github.com/Spaghxttii]
- * ------------------------------------------
- * 
- * 
+ * ===================================
  * Project Name Here
  * Developed by: [YOUR NAME]
  * Version: 1.0.0
  * Last Updated: [YYYY-MM-DD]
- * 
- * 
+ * ===================================
 **/
 
 require('dotenv').config();

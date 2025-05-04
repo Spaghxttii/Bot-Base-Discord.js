@@ -1,4 +1,19 @@
 {
+  "name": "discord-bot-base",
+  "version": "1.0.0",
+  "description": "A base for creating discord bots via JavaScript",
+  "main": "index.js",
+
+  "author": {
+    "name": "Your Name/Organization",
+    "url": "https://yourwebsite.com"
+  },
+  "contributors": [
+    {
+      "name": "Spaghxttii",
+      "url": "https://github.com/Spaghxttii"
+    }
+  ],
   "dependencies": {
     "discord.js": "^14.19.3",
     "dotenv": "^16.5.0"

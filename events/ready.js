@@ -1,3 +1,12 @@
+/**
+ * Ready Event
+ * ------------------------------------------
+ * Written by: Spaghxttii (2025)
+ * GitHub: [https://github.com/Spaghxttii]
+ * Usage:
+ * Executes when bot connects to Discord
+ * ------------------------------------------
+ **/
 module.exports = {
     name: 'ready',
     once: true,
